@@ -1,3 +1,6 @@
+# TANIUM NOTE
+This repo is a fork of https://github.com/npm/node-tar -- it's product, `@tanium/tar@4.4.9`, includes the fix found in [PR #215](https://github.com/npm/node-tar/pull/215). Usage of this fork should cease once PR 215 has been merged and released with the official node-tar repo.
+
 # node-tar
 
 [![Build Status](https://travis-ci.org/npm/node-tar.svg?branch=master)](https://travis-ci.org/npm/node-tar)
